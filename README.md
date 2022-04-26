@@ -43,7 +43,6 @@ Maximum Trailing Zeros in a Cornered Path https://leetcode.com/submissions/detai
 
 Longest Path With Different Adjacent Characters https://leetcode.com/submissions/detail/687722558/
 
-**Link to work**: [here]()
 
 
 
