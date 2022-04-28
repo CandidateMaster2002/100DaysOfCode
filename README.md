@@ -5,7 +5,7 @@
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) **25/04/22**| Upsolved 3 Leetcode Contests Questions |[Day 2](#day-2) Upsolved 3 Leetcode Contests Questions **26/04/22**| |
-|[Day 3](#day-3) **27/04/22**| Solved Leetcode daily challenge |[Day 4](#day-4) **28/04/22**| |
+|[Day 3](#day-3) **27/04/22**| Solved Leetcode daily challenge |[Day 4](#day-4) **28/04/22**| Solved Leetcode daily challenge |
 
 <a name="day-1"></a>
  
@@ -48,7 +48,7 @@ Longest Path With Different Adjacent Characters https://leetcode.com/submissions
 
 <a name="day-2"></a>
 
-### Day 2: April 26, 2022
+### Day 3: April 27, 2022
 
 
 **Today's Focus**:
@@ -62,4 +62,16 @@ Smallest String With Swaps https://leetcode.com/submissions/detail/688443836/
 [Table of Contents](#toc)
 
 
+### Day 4: April 28, 2022
+
+
+**Today's Focus**:
+Solved leetcode daily challenge
+
+**Details**:
+
+1631. Path With Minimum Effort https://leetcode.com/submissions/detail/689072862/
+
+
+[Table of Contents](#toc)
 
