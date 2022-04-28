@@ -4,7 +4,7 @@
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **25/04/22**| Upsolved 3 Leetcode Contests Questions |[Day 2](#day-2) Upsolved 3 Leetcode Contests Questions **26/04/22**| |
+|[Day 1](#day-1) **25/04/22**| Upsolved 3 Leetcode Contests Questions |[Day 2](#day-2) **26/04/22**| Upsolved 3 Leetcode Contests Questions |
 |[Day 3](#day-3) **27/04/22**| Solved Leetcode daily challenge |[Day 4](#day-4) **28/04/22**| Solved Leetcode daily challenge |
 
 <a name="day-1"></a>
