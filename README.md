@@ -7,7 +7,7 @@
 |[Day 1](#day-1) **25/04/22**| Upsolved 3 Leetcode Contests Questions |[Day 2](#day-2) **26/04/22**| Upsolved 3 Leetcode Contests Questions |
 |[Day 3](#day-3) **27/04/22**| Solved Leetcode daily challenge |[Day 4](#day-4) **28/04/22**| Solved Leetcode daily challenge |
 |[Day 5](#day-1) **29/04/22**| Solved Leetcode daily challenge 
-<!-- |[Day 6](#day-6) **30/04/22**| Solved Leetcode daily challenge and 77th LeetCode Biweekly Contest | -->
+|[Day 6](#day-6) **30/04/22**| Solved Leetcode daily challenge and 77th LeetCode Biweekly Contest |
 <!-- |[Day 7](#day-7) **01/05/22**| Solved Leetcode daily challenge |[Day 8](#day-8) **02/05/22**| Solved Leetcode daily challenge | -->
 
 
@@ -100,7 +100,9 @@ Solved leetcode daily challenge and 2 questions in 77th LeetCode Biweekly Contes
 **Details**:
 
 Evaluate Division https://leetcode.com/submissions/detail/690371450/
+
 https://leetcode.com/contest/biweekly-contest-77/submissions/detail/690288021/
+
 https://leetcode.com/contest/biweekly-contest-77/submissions/detail/690286872/
 
 [Table of Contents](#toc)
