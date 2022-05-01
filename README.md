@@ -8,7 +8,7 @@
 |[Day 3](#day-3) **27/04/22**| Solved Leetcode daily challenge |[Day 4](#day-4) **28/04/22**| Solved Leetcode daily challenge |
 |[Day 5](#day-1) **29/04/22**| Solved Leetcode daily challenge 
 |[Day 6](#day-6) **30/04/22**| Solved Leetcode daily challenge and 77th LeetCode Biweekly Contest |
-<!-- |[Day 7](#day-7) **01/05/22**| Solved Leetcode daily challenge |[Day 8](#day-8) **02/05/22**| Solved Leetcode daily challenge | -->
+|[Day 7](#day-7) **01/05/22**| Solved Leetcode daily challenge |[Day 8](#day-8) **02/05/22**| Solved Leetcode daily challenge |
 
 
 <a name="day-1"></a>
