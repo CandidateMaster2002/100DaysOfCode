@@ -107,3 +107,14 @@ https://leetcode.com/contest/biweekly-contest-77/submissions/detail/690286872/
 
 [Table of Contents](#toc)
 
+### Day 7: May 01, 2022
+
+**Today's Focus**:
+Solved leetcode daily challenge
+
+**Details**:
+
+Backspace String Compare https://leetcode.com/submissions/detail/691069690/
+
+[Table of Contents](#toc)
+
