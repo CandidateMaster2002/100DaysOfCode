@@ -120,11 +120,13 @@ Backspace String Compare https://leetcode.com/submissions/detail/691069690/
 ### Day 8: May 02, 2022
 
 **Today's Focus**:
-Solved CodeForces Div3 live & Leetcode daily challenge
+Solved 3 Questions in CodeForces Div3 live & SolvedLeetcode daily challenge
 
 **Details**:
 
-Backspace String Compare https://leetcode.com/submissions/detail/691069690/
+CF submissions : https://codeforces.com/contest/1674/submission/155631018 https://codeforces.com/contest/1674/submission/155616318 https://codeforces.com/contest/1674/submission/155603586 
+
+Sort Array By Parity https://leetcode.com/submissions/detail/691069690/
 
 [Table of Contents](#toc)
 
