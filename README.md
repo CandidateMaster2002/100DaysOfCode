@@ -8,7 +8,7 @@
 |[Day 3](#day-3) **27/04/22**| Solved Leetcode daily challenge |[Day 4](#day-4) **28/04/22**| Solved Leetcode daily challenge |
 |[Day 5](#day-1) **29/04/22**| Solved Leetcode daily challenge |[Day 6](#day-6) **30/04/22**| Solved Leetcode daily challenge and 77th LeetCode Biweekly Contest |
 |[Day 7](#day-7) **01/05/22**| Solved Leetcode daily challenge |[Day 8](#day-8) **02/05/22**| Solved CodeForces Div3 live & Leetcode daily challenge |
-|[Day 9](#day-9) **03/05/22**| Solved Leetcode daily challenge 
+|[Day 9](#day-9) **03/05/22**| Solved Leetcode daily challenge |[Day 10](#day-10) **04/05/22**| Solved Leetcode daily challenge 
 <!-- |[Day 8](#day-8) **02/05/22**| Solved CodeForces Div3 live & Leetcode daily challenge | -->
 
 
@@ -142,4 +142,17 @@ Solved Leetcode daily challenge
 Shortest Unsorted Continuous Subarray https://leetcode.com/submissions/detail/692123197/
 
 [Table of Contents](#toc)
+
+### Day 10: May 04, 2022
+
+**Today's Focus**:
+Solved Leetcode daily challenge
+
+**Details**:
+
+Max Number of K-Sum Pairs https://leetcode.com/submissions/detail/693033366/
+
+[Table of Contents](#toc)
+
+
 
