@@ -10,7 +10,7 @@
 |[Day 7](#day-7) **01/05/22**| Solved Leetcode daily challenge |[Day 8](#day-8) **02/05/22**| Solved CodeForces Div3 live & Leetcode daily challenge |
 |[Day 9](#day-9) **03/05/22**| Solved Leetcode daily challenge |[Day 10](#day-10) **04/05/22**| Solved Leetcode daily challenge 
 |[Day 11](#day-11) **05/05/22**| Solved Leetcode daily challenge |[Day 12](#day-12) **02/05/22**| Solved CodeForces Div2 live & Leetcode daily challenge |
-<!-- |[Day 10](#day-10) **04/05/22**| Solved Leetcode daily challenge  -->
+|[Day 13](#day-13) **07/05/22**| Solved Leetcode daily challenge 
 <!-- |[Day 8](#day-8) **02/05/22**| Solved CodeForces Div3 live & Leetcode daily challenge | -->
 
 <a name="day-1"></a>
@@ -166,7 +166,7 @@ Implement Stack using Queues https://leetcode.com/submissions/detail/693614119/
 
 [Table of Contents](#toc)
 
-### Day 8: May 02, 2022
+### Day 12: May 06, 2022
 
 **Today's Focus**:
 Solved 2 Questions in CodeForces Div2 live & Solved Leetcode daily challenge
@@ -176,6 +176,17 @@ Solved 2 Questions in CodeForces Div2 live & Solved Leetcode daily challenge
 https://codeforces.com/profile/harshiscoding
 
 Remove All Adjacent Duplicates in String II https://leetcode.com/submissions/detail/694195322/
+
+[Table of Contents](#toc)
+
+
+### Day 12: May 07, 2022
+
+**Today's Focus**:
+Solved Leetcode daily challenge
+
+**Details**:
+132 Pattern https://leetcode.com/submissions/detail/694965817/
 
 [Table of Contents](#toc)
 
