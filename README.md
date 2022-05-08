@@ -10,7 +10,7 @@
 |[Day 7](#day-7) **01/05/22**| Solved Leetcode daily challenge |[Day 8](#day-8) **02/05/22**| Solved CodeForces Div3 live & Leetcode daily challenge |
 |[Day 9](#day-9) **03/05/22**| Solved Leetcode daily challenge |[Day 10](#day-10) **04/05/22**| Solved Leetcode daily challenge 
 |[Day 11](#day-11) **05/05/22**| Solved Leetcode daily challenge |[Day 12](#day-12) **02/05/22**| Solved CodeForces Div2 live & Leetcode daily challenge |
-|[Day 13](#day-13) **07/05/22**| Solved Leetcode daily challenge 
+|[Day 13](#day-13) **07/05/22**| Solved Leetcode daily challenge |[Day 14](#day-14) **07/05/22**| Solved Leetcode daily challenge 
 <!-- |[Day 8](#day-8) **02/05/22**| Solved CodeForces Div3 live & Leetcode daily challenge | -->
 
 <a name="day-1"></a>
@@ -189,4 +189,14 @@ Solved Leetcode daily challenge
 132 Pattern https://leetcode.com/submissions/detail/694965817/
 
 [Table of Contents](#toc)
+
+### Day 14: May 08, 2022
+
+**Today's Focus**:
+Solved Leetcode daily challenge
+
+**Details**:
+Flatten Nested List Iterator https://leetcode.com/submissions/detail/695623903/
+[Table of Contents](#toc)
+
 
