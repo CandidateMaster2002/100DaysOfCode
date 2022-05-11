@@ -12,6 +12,7 @@
 |[Day 11](#day-11) **05/05/22**| Solved Leetcode daily challenge |[Day 12](#day-12) **02/05/22**| Solved CodeForces Div2 live & Leetcode daily challenge |
 |[Day 13](#day-13) **07/05/22**| Solved Leetcode daily challenge |[Day 14](#day-14) **08/05/22**| Solved Leetcode daily challenge 
 |[Day 15](#day-15) **09/05/22**| Solved Leetcode daily challenge |[Day 16](#day-16) **10/05/22**| Solved Leetcode daily challenge 
+|[Day 17](#day-17) **11/05/22**| Solved Leetcode daily challenge 
 <!-- |[Day 8](#day-8) **02/05/22**| Solved CodeForces Div3 live & Leetcode daily challenge | -->
 
 <a name="day-1"></a>
@@ -217,4 +218,14 @@ Solved Leetcode daily challenge
 **Details**:a
 Combination Sum III https://leetcode.com/submissions/detail/696710295/
 [Table of Contents](#toc)
+
+### Day 17: May 11, 2022
+
+**Today's Focus**:
+Solved Leetcode daily challenge
+
+**Details**:
+Count Sorted Vowel Strings https://leetcode.com/submissions/detail/697149187/
+[Table of Contents](#toc)
+
 
