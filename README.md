@@ -13,6 +13,7 @@
 |[Day 13](#day-13) **07/05/22**| Solved Leetcode daily challenge |[Day 14](#day-14) **08/05/22**| Solved Leetcode daily challenge 
 |[Day 15](#day-15) **09/05/22**| Solved Leetcode daily challenge |[Day 16](#day-16) **10/05/22**| Solved Leetcode daily challenge 
 |[Day 17](#day-17) **11/05/22**| Solved Leetcode daily challenge |[Day 18](#day-18) **12/05/22**| Solved Leetcode daily challenge and revised tuf sheet 
+|[Day 19](#day-19) **13/05/22**| Solved Leetcode daily challenge
 <!-- |[Day 8](#day-8) **02/05/22**| Solved CodeForces Div3 live & Leetcode daily challenge | -->
 
 <a name="day-1"></a>
@@ -234,6 +235,16 @@ Count Sorted Vowel Strings https://leetcode.com/submissions/detail/697149187/
 Solved Leetcode daily challenge
 
 **Details**:
-Count Sorted Vowel Strings https://leetcode.com/submissions/detail/697149187/
+Combination Sum III https://leetcode.com/submissions/detail/696710295/
 [Table of Contents](#toc)
+
+### Day 19: May 13, 2022
+
+**Today's Focus**:
+Solved Leetcode daily challenge
+
+**Details**:
+Populating Next Right Pointers in Each Node II https://leetcode.com/submissions/detail/698479882/
+[Table of Contents](#toc)
+
 
