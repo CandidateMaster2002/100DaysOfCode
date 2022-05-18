@@ -286,3 +286,12 @@ Solved Leetcode daily challenge
 **Details**:(
 https://leetcode.com/submissions/detail/701234283/
 [Table of Contents](#toc)
+
+### Day 24:May 18,2022
+
+**Today's Focus**:
+Solved Leetcode daily challenge
+
+**Details**:(
+https://leetcode.com/submissions/detail/701878080/
+[Table of Contents](#toc)
