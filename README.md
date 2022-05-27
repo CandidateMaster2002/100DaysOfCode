@@ -20,6 +20,8 @@
 |[Day 27](#day-27) **21/05/22**| Solved 4 Leetcode questions |[Day 28](#day-28) **22/05/22**| Solved 4 Leetcode questions
 |[Day 29](#day-29) **23/05/22**| Solved greedy and backtracking questions |[Day 30](#day-30) **24/05/22**| Solved backtracking questions
 |[Day 31](#day-31) **25/05/22**| Solved binary search questions tuf |[Day 32](#day-32) **26/05/22**| Solved stack and queue questions tuf
+|[Day 33](#day-33) **27/05/22**| Solved stack and queue questions tuf
+
 
 
 
