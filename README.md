@@ -22,7 +22,7 @@
 |[Day 31](#day-31) **25/05/22**| Solved binary search questions tuf |[Day 32](#day-32) **26/05/22**| Solved stack and queue questions tuf
 |[Day 33](#day-33) **27/05/22**| Solved stack and queue questions tuf
 
-Day 34hhhh
+Day 34hhhh Day 35hhhhhhhhhhh
 
 
 <!-- |[Day 8](#day-8) **02/05/22**| Solved CodeForces Div3 live & Leetcode daily challenge | -->
