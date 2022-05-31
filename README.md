@@ -24,7 +24,7 @@
 |[Day 35](#day-35) **29/05/22**| Revised tuf sheet |[Day 36](#day-36) **30/05/22**| Revised tuf sheet
 
 
-
+Day36 Revised tuf sheey
 <!-- |[Day 8](#day-8) **02/05/22**| Solved CodeForces Div3 live & Leetcode daily challenge | -->
 
 <a name="day-1"></a>
