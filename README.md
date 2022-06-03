@@ -22,6 +22,8 @@
 |[Day 31](#day-31) **25/05/22**| Solved binary search questions tuf |[Day 32](#day-32) **26/05/22**| Solved stack and queue questions tuf
 |[Day 33](#day-33) **27/05/22**| Solved string tuf |[Day 34](#day-34) **28/05/22**| Leetcode biweely contest + daily challenge
 |[Day 35](#day-35) **29/05/22**| Revised tuf sheet |[Day 36](#day-36) **30/05/22**| Revised tuf sheet
+|[Day 37](#day-35) **30/05/22**| Revised tuf sheet |[Day 38](#day-38) **31/05/22**| Revised tuf sheet
+|[Day 39](#day-39) **01/06/22**| Revised tuf sheet |[Day 40](#day-40) **02/06/22**| Revised tuf sheet
 
 
 Day37 Revised tuf sheet day 38 day 39
