@@ -9,7 +9,7 @@
 |[Day 5](#day-1) **29/04/22**| Solved Leetcode daily challenge |[Day 6](#day-6) **30/04/22**| Solved Leetcode daily challenge and 77th LeetCode Biweekly Contest |
 |[Day 7](#day-7) **01/05/22**| Solved Leetcode daily challenge |[Day 8](#day-8) **02/05/22**| Solved CodeForces Div3 live & Leetcode daily challenge |
 |[Day 9](#day-9) **03/05/22**| Solved Leetcode daily challenge |[Day 10](#day-10) **04/05/22**| Solved Leetcode daily challenge 
-|[Day 11](#day-11) **05/05/22**| Solved Leetcode daily challenge |[Day 12](#day-12) **02/05/22**| Solved CodeForces Div2 live & Leetcode daily challenge |
+|[Day 11](#day-11) **05/05/22**| Solved leetcode daily challenge |[Day 12](#day-12) **02/05/22**| Solved CodeForces Div2 live & Leetcode daily challenge |
 |[Day 13](#day-13) **07/05/22**| Solved Leetcode daily challenge |[Day 14](#day-14) **08/05/22**| Solved Leetcode daily challenge 
 |[Day 15](#day-15) **09/05/22**| Solved Leetcode daily challenge |[Day 16](#day-16) **10/05/22**| Solved Leetcode daily challenge 
 |[Day 17](#day-17) **11/05/22**| Solved Leetcode daily challenge |[Day 18](#day-18) **12/05/22**| Solved Leetcode daily challenge and revised tuf sheet 
