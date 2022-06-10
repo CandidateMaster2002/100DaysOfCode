@@ -23,7 +23,7 @@
 |[Day 33](#day-33) **27/05/22**| Solved string tuf |[Day 34](#day-34) **28/05/22**| Leetcode biweely contest + daily challenge
 |[Day 35](#day-35) **29/05/22**| Revised tuf sheet |[Day 36](#day-36) **30/05/22**| Revised tuf sheet
 |[Day 37](#day-35) **30/05/22**| Revised tuf sheet |[Day 38](#day-38) **31/05/22**| Revised tuf sheet
-|[Day 39](#day-39) **01/06/22**| Revised tuf sheet |[Day 40](#day-40) **02/06/22**| Revised tuf sheet
+|[Day 39](#day-39) **01/06/22**| Revised tu day 47f sheet |[Day 40](#day-40) **02/06/22**| Revised tuf sheet
 Day 41 day 42 day 43 day 44 day 45 day 46
 
 Day37 Revised tuf sheet day 38 day 39
