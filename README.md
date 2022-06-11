@@ -25,6 +25,7 @@
 |[Day 37](#day-35) **30/05/22**| Revised tuf sheet |[Day 38](#day-38) **31/05/22**| Revised tuf sheet
 |[Day 39](#day-39) **01/06/22**| Revised tu day 47f sheet |[Day 40](#day-40) **02/06/22**| Revised tuf sheet
 Day 41 day 42 day 43 day 44 day 45 day 46 day 47
+[Day 48](#day-49) **11/06/22**| Solved daily leetcode challenge |
 
 Day37 Revised tuf sheet day 38 day 39
 <!-- |[Day 8](#day-8) **02/05/22**| Solved CodeForces Div3 live & Leetcode daily challenge | -->
