@@ -27,7 +27,7 @@
 Day 41 day 42 day 43 day 44 day 45 day 46 day 47 day 48 49
 [Day 48](#day-49) **11/06/22**| Solved daily leetcode challenge |
  Day 54 day 55 day 56 57 58 59
-Day37 Revised tuf sheet day 38 day 39 day 50 day 51 day52 day53 day 54
+Day37 Revised tuf sheet day 38 day 39 day 50 day 51 day52 day53 day 54 day 55
 <!-- |[Day 8](#day-8) **02/05/22**| Solved CodeForces Div3 live & Leetcode daily challenge | -->
 
 <a name="day-1"></a>
