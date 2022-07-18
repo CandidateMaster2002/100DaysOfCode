@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 ## This is a round 1 of 100DaysOfCode challenge. I'll code minimum 2 hour every day from date 25/04/2022 to 2/08/2022
 <a name="toc"></a>
-### Table of Contents 
+### Table of Contents nnbb
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) **25/04/22**| Upsolved 3 Leetcode Contests Questions |[Day 2](#day-2) **26/04/22**| Upsolved 3 Leetcode Contests Questions |
@@ -96,7 +96,7 @@ Solved leetcode daily challenge
 
 **Details**:
 
-1631. Path With Minimum Effort https://leetcode.com/submissions/detail/689072862/
+1631. Path With Minimum Effort HH https://leetcode.com/submissions/detail/689072862/
 
 
 [Table of Contents](#toc)
