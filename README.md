@@ -75,7 +75,7 @@ Longest Path With Different Adjacent Characters https://leetcode.com/submissions
 <a name="day-2"></a>
 
 ### Day 3: April 27, 2022
-
+Bbh
 
 **Today's Focus**:
 Solved leetcode daily challenge
