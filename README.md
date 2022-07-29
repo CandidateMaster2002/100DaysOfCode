@@ -1,6 +1,6 @@
 
 # 100 Days Of Code - Log
-## This is a round 1 vv of 100DaysOfCode challenge. I'll code minimum 2 hour every day from date 25/04/2022 to 2/08/2022
+## This is a round 1 of 100DaysOfCode challenge. I'll code minimum 2 hour every day from date 25/04/2022 to 2/08/2022
 <a name="toc"></a>
 ### Table of Contents nnbb
 |Day|Focus|Day|Focus|
