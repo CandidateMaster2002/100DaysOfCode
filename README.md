@@ -204,7 +204,7 @@ Remove All Adjacent Duplicates in String II https://leetcode.com/submissions/det
 ### Day 13: May 07, 2022
 
 **Today's Focus**:
-Solved Leetcode daily challenge
+Solved Leetcode daily challenge bb
 
 **Details**:
 132 Pattern https://leetcode.com/submissions/detail/694965817/
