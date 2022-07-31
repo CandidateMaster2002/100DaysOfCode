@@ -23,38 +23,38 @@
 |[Day 31](#day-31) **25/05/22**| Solved binary search questions tuf |[Day 32](#day-32) **26/05/22**| Solved stack and queue questions tuf |
 |[Day 33](#day-33) **27/05/22**| Solved string tuf |[Day 34](#day-34) **28/05/22**| Leetcode biweely contest + daily challenge |
 |[Day 35](#day-35) **29/05/22**| Revised tuf sheet |[Day 36](#day-36) **30/05/22**| Revised tuf sheet |
-|[Day 37](#day-37) **30/05/22**| Revised tuf sheet |[Day 38](#day-38) **31/05/22**| Revised tuf sheet |
-|[Day 39](#day-39) **01/06/22**|  |[Day 40](#day-40) **02/06/22**|  |
-|[Day 41](#day-41) **03/06/22**|  |[Day 42](#day-42) **04/06/22**|  |
-|[Day 43](#day-43) **05/06/22**|  |[Day 44](#day-44) **06/06/22**|  |
-|[Day 45](#day-45) **07/06/22**|  |[Day 46](#day-46) **08/06/22**|  |
-|[Day 47](#day-47) **09/06/22**|  |[Day 48](#day-48) **10/06/22**|  |
-|[Day 49](#day-49) **11/06/22**|  |[Day 50](#day-50) **12/06/22**|  |
-|[Day 51](#day-51) **13/06/22**|  |[Day 52](#day-52) **14/06/22**|  |
-|[Day 53](#day-53) **15/06/22**|  |[Day 54](#day-54) **16/06/22**|  |
-|[Day 55](#day-55) **17/06/22**|  |[Day 56](#day-56) **18/06/22**|  |
-|[Day 57](#day-57) **19/06/22**|  |[Day 58](#day-57) **20/06/22**|  |
-|[Day 59](#day-59) **21/06/22**|  |[Day 60](#day-60) **22/06/22**|  |
-|[Day 61](#day-61) **23/06/22**|  |[Day 62](#day-62) **24/06/22**|  |
-|[Day 63](#day-63) **25/06/22**|  |[Day 64](#day-64) **26/06/22**|  |
-|[Day 65](#day-65) **27/06/22**|  |[Day 66](#day-66) **28/06/22**|  |
-|[Day 67](#day-67) **29/06/22**|  |[Day 68](#day-68) **30/06/22**|  |
-|[Day 69](#day-69) **01/07/22**|  |[Day 70](#day-70) **02/07/22**|  |
-|[Day 71](#day-70) **03/07/22**|  |[Day 72](#day-71) **04/07/22**|  |
-|[Day 73](#day-73) **05/07/22**|  |[Day 74](#day-74) **06/07/22**|  |
-|[Day 75](#day-75) **07/07/22**|  |[Day 76](#day-76) **08/07/22**|  |
-|[Day 77](#day-77) **09/07/22**|  |[Day 78](#day-78) **10/07/22**|  |
-|[Day 79](#day-79) **11/07/22**|  |[Day 80](#day-80) **12/07/22**|  |
-|[Day 81](#day-81) **13/07/22**|  |[Day 82](#day-82) **14/07/22**|  |
-|[Day 83](#day-83) **15/07/22**|  |[Day 84](#day-84) **16/07/22**|  |
-|[Day 85](#day-85) **17/07/22**|  |[Day 86](#day-86) **18/07/22**|  |
-|[Day 87](#day-87) **19/07/22**|  |[Day 88](#day-88) **20/07/22**|  |
-|[Day 89](#day-89) **21/07/22**|  |[Day 90](#day-90) **22/07/22**|  |
-|[Day 91](#day-91) **23/07/22**|  |[Day 92](#day-92) **24/07/22**|  |
-|[Day 93](#day-93) **25/07/22**|  |[Day 94](#day-94) **26/07/22**|  |
-|[Day 95](#day-95) **27/07/22**|  |[Day 96](#day-96) **28/07/22**|  |
-|[Day 97](#day-97) **29/07/22**|  |[Day 98](#day-98) **30/07/22**|  |
-|[Day 99](#day-99) **31/07/22**|  |[Day 100](#day-100) **01/08/22**|  |
+|[Day 37](#day-37) **31/05/22**| Revised tuf sheet |[Day 38](#day-38) **01/06/22**| Revised tuf sheet |
+|[Day 39](#day-39) **02/06/22**|  |[Day 40](#day-40) **03/06/22**|  |
+|[Day 41](#day-41) **04/06/22**|  |[Day 42](#day-42) **04/06/22**|  |
+|[Day 43](#day-43) **06/06/22**|  |[Day 44](#day-44) **06/06/22**|  |
+|[Day 45](#day-45) **08/06/22**|  |[Day 46](#day-46) **08/06/22**|  |
+|[Day 47](#day-47) **10/06/22**|  |[Day 48](#day-48) **10/06/22**|  |
+|[Day 49](#day-49) **12/06/22**|  |[Day 50](#day-50) **12/06/22**|  |
+|[Day 51](#day-51) **14/06/22**|  |[Day 52](#day-52) **14/06/22**|  |
+|[Day 53](#day-53) **16/06/22**|  |[Day 54](#day-54) **16/06/22**|  |
+|[Day 55](#day-55) **18/06/22**|  |[Day 56](#day-56) **18/06/22**|  |
+|[Day 57](#day-57) **20/06/22**|  |[Day 58](#day-57) **20/06/22**|  |
+|[Day 59](#day-59) **22/06/22**|  |[Day 60](#day-60) **22/06/22**|  |
+|[Day 61](#day-61) **24/06/22**|  |[Day 62](#day-62) **24/06/22**|  |
+|[Day 63](#day-63) **26/06/22**|  |[Day 64](#day-64) **26/06/22**|  |
+|[Day 65](#day-65) **28/06/22**|  |[Day 66](#day-66) **28/06/22**|  |
+|[Day 67](#day-67) **30/06/22**|  |[Day 68](#day-68) **30/06/22**|  |
+|[Day 69](#day-69) **02/07/22**|  |[Day 70](#day-70) **02/07/22**|  |
+|[Day 71](#day-70) **04/07/22**|  |[Day 72](#day-71) **04/07/22**|  |
+|[Day 73](#day-73) **06/07/22**|  |[Day 74](#day-74) **06/07/22**|  |
+|[Day 75](#day-75) **08/07/22**|  |[Day 76](#day-76) **08/07/22**|  |
+|[Day 77](#day-77) **10/07/22**|  |[Day 78](#day-78) **10/07/22**|  |
+|[Day 79](#day-79) **12/07/22**|  |[Day 80](#day-80) **12/07/22**|  |
+|[Day 81](#day-81) **14/07/22**|  |[Day 82](#day-82) **14/07/22**|  |
+|[Day 83](#day-83) **16/07/22**|  |[Day 84](#day-84) **16/07/22**|  |
+|[Day 85](#day-85) **18/07/22**|  |[Day 86](#day-86) **18/07/22**|  |
+|[Day 87](#day-87) **20/07/22**|  |[Day 88](#day-88) **20/07/22**|  |
+|[Day 89](#day-89) **22/07/22**|  |[Day 90](#day-90) **22/07/22**|  |
+|[Day 91](#day-91) **24/07/22**|  |[Day 92](#day-92) **24/07/22**|  |
+|[Day 93](#day-93) **26/07/22**|  |[Day 94](#day-94) **26/07/22**|  |
+|[Day 95](#day-95) **28/07/22**|  |[Day 96](#day-96) **28/07/22**|  |
+|[Day 97](#day-97) **30/07/22**|  |[Day 98](#day-98) **31/07/22**|  |
+|[Day 99](#day-99) **01/08/22**|  |[Day 100](#day-100) **02/08/22**|  |
 
 
 
@@ -122,7 +122,7 @@ Solved leetcode daily challenge
 
 [Table of Contents](#toc)
 
-<a name="day-4"></a>
+<a name="day-5"></a>
 ### Day 5: April 29, 2022
 day 96
 
@@ -135,6 +135,7 @@ Is Graph Bipartite? https://leetcode.com/submissions/detail/689462840/
 
 [Table of Contents](#toc)
 
+<a name="day-6"></a>
 ### Day 6: April 30, 2022
 
 
@@ -151,6 +152,7 @@ https://leetcode.com/contest/biweekly-contest-77/submissions/detail/690286872/
 
 [Table of Contents](#toc)
 
+<a name="day-7"></a>
 ### Day 7: May 01, 2022
 
 **Today's Focus**:
@@ -162,6 +164,7 @@ Backspace String Compare https://leetcode.com/submissions/detail/691069690/
 
 [Table of Contents](#toc)
 
+<a name="day-8"></a>
 ### Day 8: May 02, 2022
 
 **Today's Focus**:
@@ -175,6 +178,7 @@ Sort Array By Parity https://leetcode.com/submissions/detail/691069690/
 
 [Table of Contents](#toc)
 
+<a name="day-9"></a>
 ### Day 9: May 03, 2022
 
 **Today's Focus**:
@@ -186,6 +190,7 @@ Shortest Unsorted Continuous Subarray https://leetcode.com/submissions/detail/69
 
 [Table of Contents](#toc)
 
+<a name="day-10"></a>
 ### Day 10: May 04, 2022
 
 **Today's Focus**:
@@ -197,6 +202,7 @@ Max Number of K-Sum Pairs https://leetcode.com/submissions/detail/693033366/
 
 [Table of Contents](#toc)
 
+<a name="day-11"></a>
 ### Day 11: May 05, 2022
 
 **Today's Focus**:
@@ -208,6 +214,7 @@ Implement Stack using Queues https://leetcode.com/submissions/detail/693614119/
 
 [Table of Contents](#toc)
 
+<a name="day-12"></a>
 ### Day 12: May 06, 2022
 
 **Today's Focus**:
@@ -222,6 +229,7 @@ Remove All Adjacent Duplicates in String II https://leetcode.com/submissions/det
 [Table of Contents](#toc)
 
 
+<a name="day-13"></a>
 ### Day 13: May 07, 2022
 
 **Today's Focus**:
@@ -232,6 +240,7 @@ Solved Leetcode daily challenge bb
 
 [Table of Contents](#toc)
 
+<a name="day-14"></a>
 ### Day 14: May 08, 2022
 
 **Today's Focus**:
@@ -241,6 +250,7 @@ Solved Leetcode daily challenge
 Flatten Nested List Iterator https://leetcode.com/submissions/detail/695623903/
 [Table of Contents](#toc)
 
+<a name="day-15"></a>
 ### Day 15: May 09, 2022
 
 **Today's Focus**:
@@ -250,6 +260,7 @@ Solved Leetcode daily challenge
  Letter Combinations of a Phone Number https://leetcode.com/submissions/detail/696247910/
 [Table of Contents](#toc)
 
+<a name="day-16"></a>
 ### Day 16: May 10, 2022
 
 **Today's Focus**:
@@ -259,6 +270,7 @@ Solved Leetcode daily challenge
 Combination Sum III https://leetcode.com/submissions/detail/696710295/
 [Table of Contents](#toc)
 
+<a name="day-17"></a>
 ### Day 17: May 11, 2022
 
 **Today's Focus**:
@@ -268,6 +280,7 @@ Solved Leetcode daily challenge
 Count Sorted Vowel Strings https://leetcode.com/submissions/detail/697149187/
 [Table of Contents](#toc)
 
+<a name="day-18"></a>
 ### Day 18: May 12, 2022
 
 **Today's Focus**:
@@ -277,6 +290,7 @@ Solved Leetcode daily challenge
 Combination Sum III https://leetcode.com/submissions/detail/696710295/
 [Table of Contents](#toc)
 
+<a name="day-19"></a>
 ### Day 19: May 13, 2022
 
 **Today's Focus**:
@@ -287,6 +301,7 @@ Populating Next Right Pointers in Each Node II https://leetcode.com/submissions/
 [Table of Contents](#toc)
 
 
+<a name="day-20"></a>
 ### Day 20: May 14, 2022
 
 **Today's Focus**:
@@ -297,6 +312,7 @@ Network Delay Time https://leetcode.com/submissions/detail/699014914/
 [Table of Contents](#toc)
 
 
+<a name="day-21"></a>
 ### Day 21:May 15,2022
 
 **Today's Focus**:
@@ -306,6 +322,7 @@ Solved Leetcode daily challenge
 https://leetcode.com/submissions/detail/700056992/
 [Table of Contents](#toc)
 
+<a name="day-22"></a>
 ### Day 22:May 16,2022
 
 **Today's Focus**:
@@ -315,6 +332,7 @@ Solved Leetcode daily challenge
 https://leetcode.com/submissions/detail/700873230/
 [Table of Contents](#toc)
 
+<a name="day-23"></a>
 ### Day 23:May 17,2022
 
 **Today's Focus**:
@@ -324,6 +342,7 @@ Solved Leetcode daily challenge
 https://leetcode.com/submissions/detail/701234283/
 [Table of Contents](#toc)
 
+<a name="day-24"></a>
 ### Day 24:May 18,2022
 
 **Today's Focus**:
@@ -333,6 +352,7 @@ Solved Leetcode daily challenge
 https://leetcode.com/submissions/detail/701878080/
 [Table of Contents](#toc)
 
+<a name="day-25"></a>
 ### Day 25:May 19,2022
 
 **Today's Focus**:
@@ -342,6 +362,7 @@ Solved Leetcode daily challenge
 https://leetcode.com/submissions/detail/702836956/
 [Table of Contents](#toc)
 
+<a name="day-26"></a>
 ### Day 26:May 20,2022
 
 **Today's Focus**:
@@ -351,6 +372,7 @@ Solved Leetcode daily challenge
 https://leetcode.com/submissions/detail/703389791/
 [Table of Contents](#toc)
 
+<a name="day-27"></a>
 ### Day 27 :May 21,2022
 today focus
 **Today's Focus**:
@@ -363,4 +385,673 @@ Merge Intervals
 Coin Change
 
 [Table of Contents](#toc)
+
+
+<a name="day-28"></a>
+### Day 28 :May 22,2022
+
+**Today's Focus**:
+Solved 4 Leetcode questions
+
+**Details**:(
+Majority Element II
+Majority Element
+Merge Intervals
+Coin Change
+
+[Table of Contents](#toc)
+
+<a name="day-29"></a>
+### Day  29:May 23,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-30"></a>
+### Day  30:May 24,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-31"></a>
+### Day  31:May 25,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-32"></a>
+### Day  32:May 26,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-33"></a>
+### Day  33:May 27,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-34"></a>
+### Day  34:May 28,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-35"></a>
+### Day  35:May 29,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-36"></a>
+### Day  36:May 30,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-37"></a>
+### Day  37:May 31,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-38"></a>
+### Day  38:01 June,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-"></a>
+### Day  39:02 June,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-40"></a>
+### Day  40:03 June,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-41"></a>
+### Day  41:04 June,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-42"></a>
+### Day  42:05 June,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-43"></a>
+### Day  43: 06 June,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-44"></a>
+### Day  44:07 June,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-45"></a>
+### Day  45: 08 June,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+
+<a name="day-46"></a>
+### Day  46: 09 June,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-47"></a>
+### Day  47:10 June,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-48"></a>
+### Day  48:11 June,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-49"></a>
+### Day  49: 12 June,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-50"></a>
+### Day  50: 13 June,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-51"></a>
+### Day  51: 14 June,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-52"></a>
+### Day  52: 15 June,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-53"></a>
+### Day  53: 16 June,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-54"></a>
+### Day  54: 17 June,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-55"></a>
+### Day  55: 18 June,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-56"></a>
+### Day 56: 19 June,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-57"></a>
+### Day  57: 20 June,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-58"></a>
+### Day 58:21 June,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-59"></a>
+### Day  59:22 June,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-60"></a>
+### Day  60:23 June,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-61"></a>
+### Day  61:24 June,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-62"></a>
+### Day  62:25 June,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-63"></a>
+### Day  63:26 June,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-64"></a>
+### Day  64:27 June,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-65"></a>
+### Day  65: June 28,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-66"></a>
+### Day  66:29 June,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-67"></a>
+### Day  67:30 June,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+
+<a name="day-68"></a>
+### Day  68:01 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+
+<a name="day-69"></a>
+### Day  69:02 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-70"></a>
+### Day  70:03 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-71"></a>
+### Day  71:04 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-72"></a>
+### Day  72:05 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-73"></a>
+### Day  73:06 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-74"></a>
+### Day  74:07 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-75"></a>
+### Day  75:08 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-76"></a>
+### Day  76:09 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-77"></a>
+### Day  77:10 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-78"></a>
+### Day  78:11 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-79"></a>
+### Day  79:12 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-80"></a>
+### Day  80:13 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-81"></a>
+### Day  81:14 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-82"></a>
+### Day  82:15 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-83"></a>
+### Day  83:16 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-84"></a>
+### Day  84:17 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-85"></a>
+### Day  85:18 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-86"></a>
+### Day  86:19 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-87"></a>
+### Day  87:20 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-88"></a>
+### Day  88:21 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-89"></a>
+### Day  89:22 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-90"></a>
+### Day  90:23 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-91"></a>
+### Day  91:24 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-92"></a>
+### Day  92:25 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-93"></a>
+### Day  93:26 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-94"></a>
+### Day  94:27 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-95"></a>
+### Day  95:28 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-96"></a>
+### Day  96:29 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-97"></a>
+### Day  97:30 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-98"></a>
+### Day 98 :31 July,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-99"></a>
+### Day 99 :01 Aug,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+<a name="day-"></a>
+### Day  100:02 August,2022
+
+**Today's Focus**:
+
+**Details**:(
+
+[Table of Contents](#toc)
+
+
+
 
