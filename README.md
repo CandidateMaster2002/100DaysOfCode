@@ -47,14 +47,14 @@
 |[Day 79](#day-79) **12/07/22**| Created Functions For Login Page of differHome  |[Day 80](#day-80) **13/07/22**|  Created Functions For Login Page of differHome |
 |[Day 81](#day-81) **14/07/22**| Implemented Functions For Login Page of differHome  |[Day 82](#day-82) **15/07/22**|  Implemented Functions For Login Page of differHome |
 |[Day 83](#day-83) **16/07/22**| Implemented Functions For Login Page of differHome |[Day 84](#day-84) **17/07/22**| Revised Binary Trees TUF sheet |
-|[Day 85](#day-85) **18/07/22**| Revised Binary Trees TUF sheet  |[Day 86](#day-86) **19/07/22**|  |
-|[Day 87](#day-87) **20/07/22**|  |[Day 88](#day-88) **21/07/22**|  |
-|[Day 89](#day-89) **22/07/22**|  |[Day 90](#day-90) **23/07/22**|  |
-|[Day 91](#day-91) **24/07/22**|  |[Day 92](#day-92) **25/07/22**|  |
-|[Day 93](#day-93) **26/07/22**|  |[Day 94](#day-94) **27/07/22**|  |
-|[Day 95](#day-95) **28/07/22**|  |[Day 96](#day-96) **29/07/22**|  |
-|[Day 97](#day-97) **30/07/22**|  |[Day 98](#day-98) **31/07/22**|  |
-|[Day 99](#day-99) **01/08/22**|  |[Day 100](#day-100) **02/08/22**|  |
+|[Day 85](#day-85) **18/07/22**| Revised Binary Trees TUF sheet  |[Day 86](#day-86) **19/07/22**| Created Functions for AdminPortal Page of DifferHome |
+|[Day 87](#day-87) **20/07/22**| Created Functions for AdminPortal Page of DifferHome |[Day 88](#day-88) **21/07/22**|  Created Functions for AdminPortal Page of DifferHome |
+|[Day 89](#day-89) **22/07/22**| Created Functions for AdminPortal Page of DifferHome |[Day 90](#day-90) **23/07/22**| Implemented Functions for AdminPortal Page of DifferHome |
+|[Day 91](#day-91) **24/07/22**| Implemented Functions for AdminPortal Page of DifferHome |[Day 92](#day-92) **25/07/22**| Implemented Functions for AdminPortal Page of DifferHome  |
+|[Day 93](#day-93) **26/07/22**| Connected AdminPortal Page to Google Maps |[Day 94](#day-94) **27/07/22**| Connected AdminPortal Page to Google Maps |
+|[Day 95](#day-95) **28/07/22**| Revised Binary Search Trees TUF sheet |[Day 96](#day-96) **29/07/22**| Revised Binary Search Trees TUF sheet |
+|[Day 97](#day-97) **30/07/22**| Revised Graphs TUF sheet |[Day 98](#day-98) **31/07/22**| Revised Graphs TUF sheet |
+|[Day 99](#day-99) **01/08/22**| Revised DP TUF sheet |[Day 100](#day-100) **02/08/22**| Revised DP TUF sheet  |
 
 
 
