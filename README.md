@@ -22,19 +22,19 @@
 |[Day 29](#day-29) **23/05/22**| Solved greedy and backtracking questions |[Day 30](#day-30) **24/05/22**| Solved backtracking questions |
 |[Day 31](#day-31) **25/05/22**| Solved binary search questions tuf |[Day 32](#day-32) **26/05/22**| Solved stack and queue questions tuf |
 |[Day 33](#day-33) **27/05/22**| Solved string tuf |[Day 34](#day-34) **28/05/22**| Leetcode biweely contest + daily challenge |
-|[Day 35](#day-35) **29/05/22**| Revised tuf sheet |[Day 36](#day-36) **30/05/22**| Revised tuf sheet |
-|[Day 37](#day-37) **31/05/22**| Revised tuf sheet |[Day 38](#day-38) **01/06/22**| Revised tuf sheet |
-|[Day 39](#day-39) **02/06/22**|  |[Day 40](#day-40) **03/06/22**|  |
-|[Day 41](#day-41) **04/06/22**|  |[Day 42](#day-42) **05/06/22**|  |
-|[Day 43](#day-43) **06/06/22**|  |[Day 44](#day-44) **07/06/22**|  |
-|[Day 45](#day-45) **08/06/22**|  |[Day 46](#day-46) **09/06/22**|  |
-|[Day 47](#day-47) **10/06/22**|  |[Day 48](#day-48) **11/06/22**|  |
-|[Day 49](#day-49) **12/06/22**|  |[Day 50](#day-50) **13/06/22**|  |
-|[Day 51](#day-51) **14/06/22**|  |[Day 52](#day-52) **15/06/22**|  |
-|[Day 53](#day-53) **16/06/22**|  |[Day 54](#day-54) **17/06/22**|  |
-|[Day 55](#day-55) **18/06/22**|  |[Day 56](#day-56) **19/06/22**|  |
-|[Day 57](#day-57) **20/06/22**|  |[Day 58](#day-57) **21/06/22**|  |
-|[Day 59](#day-59) **22/06/22**|  |[Day 60](#day-60) **23/06/22**|  |
+|[Day 35](#day-35) **29/05/22**| Revised tuf sheet arrays |[Day 36](#day-36) **30/05/22**| Revised tuf sheet arrays |
+|[Day 37](#day-37) **31/05/22**| Revised tuf sheet arrays |[Day 38](#day-38) **01/06/22**| Revised tuf sheet arrays|
+|[Day 39](#day-39) **02/06/22**| Revised tuf sheet linked lists |[Day 40](#day-40) **03/06/22**| Revised tuf sheet linked list |
+|[Day 41](#day-41) **04/06/22**| created functions for filters of differhome  |[Day 42](#day-42) **05/06/22**|  created functions for filters of differhome |
+|[Day 43](#day-43) **06/06/22**| created functions for filters of differhome |[Day 44](#day-44) **07/06/22**| created functions for filters of differhome |
+|[Day 45](#day-45) **08/06/22**| Revised tuf sheet greedy |[Day 46](#day-46) **09/06/22**| Revised tuf sheet greedy  |
+|[Day 47](#day-47) **10/06/22**| created context api to pass data of filters |[Day 48](#day-48) **11/06/22**| created context api to pass data of filters |
+|[Day 49](#day-49) **12/06/22**| created context api to pass data of filters |[Day 50](#day-50) **13/06/22**|   resolved errors in old codes of differhome |
+|[Day 51](#day-51) **14/06/22**| resolved errors in past codes of differhome |[Day 52](#day-52) **15/06/22**| resolved errors in past codes of differhome |
+|[Day 53](#day-53) **16/06/22**| Revised tuf sheet recursion |[Day 54](#day-54) **17/06/22**| Revised tuf sheet recursion |
+|[Day 55](#day-55) **18/06/22**| Revised tuf sheet recursion |[Day 56](#day-56) **19/06/22**| Implemented search bar function |
+|[Day 57](#day-57) **20/06/22**| Implemented search bar function |[Day 58](#day-57) **21/06/22**| Implemented search bar function |
+|[Day 59](#day-59) **22/06/22**| Implemented search bar function |[Day 60](#day-60) **23/06/22**| Implemented  |
 |[Day 61](#day-61) **24/06/22**|  |[Day 62](#day-62) **25/06/22**|  |
 |[Day 63](#day-63) **26/06/22**|  |[Day 64](#day-64) **27/06/22**|  |
 |[Day 65](#day-65) **28/06/22**|  |[Day 66](#day-66) **29/06/22**|  |
