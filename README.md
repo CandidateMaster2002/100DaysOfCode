@@ -34,20 +34,20 @@
 |[Day 53](#day-53) **16/06/22**| Revised tuf sheet recursion |[Day 54](#day-54) **17/06/22**| Revised tuf sheet recursion |
 |[Day 55](#day-55) **18/06/22**| Revised tuf sheet recursion |[Day 56](#day-56) **19/06/22**| Implemented search bar function |
 |[Day 57](#day-57) **20/06/22**| Implemented search bar function |[Day 58](#day-57) **21/06/22**| Implemented search bar function |
-|[Day 59](#day-59) **22/06/22**| Implemented search bar function |[Day 60](#day-60) **23/06/22**| Implemented  |
-|[Day 61](#day-61) **24/06/22**|  |[Day 62](#day-62) **25/06/22**|  |
-|[Day 63](#day-63) **26/06/22**|  |[Day 64](#day-64) **27/06/22**|  |
-|[Day 65](#day-65) **28/06/22**|  |[Day 66](#day-66) **29/06/22**|  |
-|[Day 67](#day-67) **30/06/22**|  |[Day 68](#day-68) **01/07/22**|  |
-|[Day 69](#day-69) **02/07/22**|  |[Day 70](#day-70) **03/07/22**|  |
-|[Day 71](#day-70) **04/07/22**|  |[Day 72](#day-71) **05/07/22**|  |
-|[Day 73](#day-73) **06/07/22**|  |[Day 74](#day-74) **07/07/22**|  |
-|[Day 75](#day-75) **08/07/22**|  |[Day 76](#day-76) **09/07/22**|  |
-|[Day 77](#day-77) **10/07/22**|  |[Day 78](#day-78) **11/07/22**|  |
-|[Day 79](#day-79) **12/07/22**|  |[Day 80](#day-80) **13/07/22**|  |
-|[Day 81](#day-81) **14/07/22**|  |[Day 82](#day-82) **15/07/22**|  |
-|[Day 83](#day-83) **16/07/22**|  |[Day 84](#day-84) **17/07/22**|  |
-|[Day 85](#day-85) **18/07/22**|  |[Day 86](#day-86) **19/07/22**|  |
+|[Day 59](#day-59) **22/06/22**| Implemented search bar function |[Day 60](#day-60) **23/06/22**| Improvised CSS of differHome secondpgNavFilter |
+|[Day 61](#day-61) **24/06/22**| Improvised CSS of differHome secondpgNavFilter |[Day 62](#day-62) **25/06/22**| Improvised CSS of differHome secondpgNavFilter |
+|[Day 63](#day-63) **26/06/22**| Improvised CSS of differHome secondpgNavFilter |[Day 64](#day-64) **27/06/22**| Improvised CSS of differHome secondpgNavFilter |
+|[Day 65](#day-65) **28/06/22**| Improvised CSS of differHome secondpgNavFilter  |[Day 66](#day-66) **29/06/22**| Improvised CSS of differHome secondpgNavFilter |
+|[Day 67](#day-67) **30/06/22**| Revised Binary Search from TUF sheet |[Day 68](#day-68) **01/07/22**| Revised Binary Search from TUF sheet |
+|[Day 69](#day-69) **02/07/22**| Revised Binary Search from TUF sheet  |[Day 70](#day-70) **03/07/22**| Revised Binary Search from TUF sheet |
+|[Day 71](#day-70) **04/07/22**| Created functions for filters of DifferHome HomePage |[Day 72](#day-71) **05/07/22**| Created functions for filters of DifferHome HomePage |
+|[Day 73](#day-73) **06/07/22**| Created functions for filters of DifferHome HomePage |[Day 74](#day-74) **07/07/22**|  Created functions for filters of DifferHome HomePage |
+|[Day 75](#day-75) **08/07/22**| Implemented Home Page Filters through redux store  |[Day 76](#day-76) **09/07/22**| Implemented Home Page Filters through redux store |
+|[Day 77](#day-77) **10/07/22**| Revised Heaps TUF sheet |[Day 78](#day-78) **11/07/22**| Revised Heaps TUF sheet |
+|[Day 79](#day-79) **12/07/22**| Created Functions For Login Page of differHome  |[Day 80](#day-80) **13/07/22**|  Created Functions For Login Page of differHome |
+|[Day 81](#day-81) **14/07/22**| Implemented Functions For Login Page of differHome  |[Day 82](#day-82) **15/07/22**|  Implemented Functions For Login Page of differHome |
+|[Day 83](#day-83) **16/07/22**| Implemented Functions For Login Page of differHome |[Day 84](#day-84) **17/07/22**| Revised Binary Trees TUF sheet |
+|[Day 85](#day-85) **18/07/22**| Revised Binary Trees TUF sheet  |[Day 86](#day-86) **19/07/22**|  |
 |[Day 87](#day-87) **20/07/22**|  |[Day 88](#day-88) **21/07/22**|  |
 |[Day 89](#day-89) **22/07/22**|  |[Day 90](#day-90) **23/07/22**|  |
 |[Day 91](#day-91) **24/07/22**|  |[Day 92](#day-92) **25/07/22**|  |
