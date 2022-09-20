@@ -391,10 +391,7 @@ Majority Element II,Majority Element,Merge Intervals,Coin Change
 Solved 4 Leetcode questions
 
 **Details**:
-Majority Element II
-Majority Element
-Merge Intervals
-Coin Change
+Two sum,add two no.s,longest substring without repeating characters,median of two sorted arrays
 
 [Table of Contents](#toc)
 
@@ -404,7 +401,7 @@ Coin Change
 **Today's Focus**:
 
 **Details**:
-
+N meetings in one room	,Minimum number of platforms required for a railway	,Job sequencing Problem,N queens problem
 [Table of Contents](#toc)
 
 <a name="day-30"></a>
@@ -412,8 +409,8 @@ Coin Change
 
 **Today's Focus**:
 
-**Details**:(
-
+**Details**:
+	Sudoku Solver	,M coloring Problem	,Rat in a Maze
 [Table of Contents](#toc)
 
 <a name="day-31"></a>
@@ -421,7 +418,8 @@ Coin Change
 
 **Today's Focus**:
 
-**Details**:(
+**Details**:
+The N-th root of an integer,Matrix Median,Find the element that appears once in a sorted array, and the rest element appears twice (Binary search)	
 
 [Table of Contents](#toc)
 
@@ -430,8 +428,8 @@ Coin Change
 
 **Today's Focus**:
 
-**Details**:(
-
+**Details**:
+Implement Stack Using Arrays,Implement Queue Using Arrays,,Implement Stack using Queue (using single queue)
 [Table of Contents](#toc)
 
 <a name="day-33"></a>
@@ -439,8 +437,8 @@ Coin Change
 
 **Today's Focus**:
 
-**Details**:(
-
+**Details**:
+Reverse Words in a String	,Longest Palindrome in a string,Roman Number to Integer and vice versa
 [Table of Contents](#toc)
 
 <a name="day-34"></a>
@@ -448,8 +446,8 @@ Coin Change
 
 **Today's Focus**:
 
-**Details**:(
-
+**Details**:
+Biweekly contest 77
 [Table of Contents](#toc)
 
 <a name="day-35"></a>
