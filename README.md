@@ -419,6 +419,7 @@ N meetings in one room	,Minimum number of platforms required for a railway	,Job 
 **Today's Focus**:
 
 **Details**:
+
 The N-th root of an integer,Matrix Median,Find the element that appears once in a sorted array, and the rest element appears twice (Binary search)	
 
 [Table of Contents](#toc)
@@ -429,7 +430,9 @@ The N-th root of an integer,Matrix Median,Find the element that appears once in 
 **Today's Focus**:
 
 **Details**:
+
 Implement Stack Using Arrays,Implement Queue Using Arrays,,Implement Stack using Queue (using single queue)
+
 [Table of Contents](#toc)
 
 <a name="day-33"></a>
@@ -438,7 +441,9 @@ Implement Stack Using Arrays,Implement Queue Using Arrays,,Implement Stack using
 **Today's Focus**:
 
 **Details**:
-Reverse Words in a String	,Longest Palindrome in a string,Roman Number to Integer and vice versa
+
+Reverse Words in a String,Longest Palindrome in a string,Roman Number to Integer and vice versa
+
 [Table of Contents](#toc)
 
 <a name="day-34"></a>
@@ -448,6 +453,7 @@ Reverse Words in a String	,Longest Palindrome in a string,Roman Number to Intege
 
 **Details**:
 Biweekly contest 77
+
 [Table of Contents](#toc)
 
 <a name="day-35"></a>
@@ -464,7 +470,9 @@ Biweekly contest 77
 
 **Today's Focus**:
 
-**Details**:(
+**Details**:
+
+Set Matrix Zeros, Pascal’s Triangle, Next Permutation, Kadane’s Algorithm, Sort an array of 0’s 1’s 2’s, Stock buy and Sell
 
 [Table of Contents](#toc)
 
@@ -473,7 +481,9 @@ Biweekly contest 77
 
 **Today's Focus**:
 
-**Details**:(
+**Details**:
+
+Rotate Matrix, Merge Overlapping Subinterval, Merge two sorted Arrays without extra space
 
 [Table of Contents](#toc)
 
@@ -482,7 +492,9 @@ Biweekly contest 77
 
 **Today's Focus**:
 
-**Details**:(
+**Details**:
+
+Find the duplicate in an array of N+1 integers, Repeat and Missing Number, Inversion of Array (Pre-req: Merge Sort)
 
 [Table of Contents](#toc)
 
@@ -491,7 +503,9 @@ Biweekly contest 77
 
 **Today's Focus**:
 
-**Details**:(
+**Details**:
+
+Reverse a LinkedList, Find the middle of LinkedList, Merge two sorted Linked List (use method used in mergeSort)
 
 [Table of Contents](#toc)
 
@@ -500,7 +514,9 @@ Biweekly contest 77
 
 **Today's Focus**:
 
-**Details**:(
+**Details**:
+
+Find intersection point of Y LinkedList, Detect a cycle in Linked List, Reverse a LinkedList in groups of size k, Check if a LinkedList is palindrome or not.
 
 [Table of Contents](#toc)
 
