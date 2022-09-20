@@ -338,7 +338,7 @@ https://leetcode.com/submissions/detail/700873230/
 **Today's Focus**:
 Solved Leetcode daily challenge
 
-**Details**:(
+**Details**:
 https://leetcode.com/submissions/detail/701234283/
 [Table of Contents](#toc)
 
@@ -348,7 +348,7 @@ https://leetcode.com/submissions/detail/701234283/
 **Today's Focus**:
 Solved Leetcode daily challenge
 
-**Details**:(
+**Details**:
 https://leetcode.com/submissions/detail/701878080/
 [Table of Contents](#toc)
 
@@ -358,7 +358,7 @@ https://leetcode.com/submissions/detail/701878080/
 **Today's Focus**:
 Solved Leetcode daily challenge
 
-**Details**:(
+**Details**:
 https://leetcode.com/submissions/detail/702836956/
 [Table of Contents](#toc)
 
@@ -374,15 +374,12 @@ https://leetcode.com/submissions/detail/703389791/
 
 <a name="day-27"></a>
 ### Day 27 :May 21,2022
-today focus
+
 **Today's Focus**:
 Solved 4 Leetcode questions
 
-**Details**:(
-Majority Element II
-Majority Element
-Merge Intervals
-Coin Change
+**Details**:
+Majority Element II,Majority Element,Merge Intervals,Coin Change
 
 [Table of Contents](#toc)
 
@@ -393,7 +390,7 @@ Coin Change
 **Today's Focus**:
 Solved 4 Leetcode questions
 
-**Details**:(
+**Details**:
 Majority Element II
 Majority Element
 Merge Intervals
@@ -406,7 +403,7 @@ Coin Change
 
 **Today's Focus**:
 
-**Details**:(
+**Details**:
 
 [Table of Contents](#toc)
 
